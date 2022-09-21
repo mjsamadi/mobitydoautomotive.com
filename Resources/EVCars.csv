@@ -1,0 +1,469 @@
+Vehicle,Model,Make,Type,Year,Sales
+Chevy Volt,Chevy,Volt,PHEV,2011,7671
+Chevy Volt,Chevy,Volt,PHEV,2012,23461
+Chevy Volt,Chevy,Volt,PHEV,2013,23094
+Chevy Volt,Chevy,Volt,PHEV,2014,18805
+Chevy Volt,Chevy,Volt,PHEV,2015,15393
+Chevy Volt,Chevy,Volt,PHEV,2016,24739
+Chevy Volt,Chevy,Volt,PHEV,2017,20349
+Chevy Volt,Chevy,Volt,PHEV,2018,18306
+Chevy Volt,Chevy,Volt,PHEV,2019,4915
+Nissan Leaf,Nissan,Leaf,EV,2011,9674
+Nissan Leaf,Nissan,Leaf,EV,2012,9819
+Nissan Leaf,Nissan,Leaf,EV,2013,22610
+Nissan Leaf,Nissan,Leaf,EV,2014,30200
+Nissan Leaf,Nissan,Leaf,EV,2015,17269
+Nissan Leaf,Nissan,Leaf,EV,2016,14006
+Nissan Leaf,Nissan,Leaf,EV,2017,11230
+Nissan Leaf,Nissan,Leaf,EV,2018,14715
+Nissan Leaf,Nissan,Leaf,EV,2019,12365
+Smart ED,Smart,ED,EV,2011,342
+Smart ED,Smart,ED,EV,2012,139
+Smart ED,Smart,ED,EV,2013,923
+Smart ED,Smart,ED,EV,2014,2594
+Smart ED,Smart,ED,EV,2015,1387
+Smart ED,Smart,ED,EV,2016,657
+Smart ED,Smart,ED,EV,2017,544
+Smart ED,Smart,ED,EV,2018,1219
+Smart ED,Smart,ED,EV,2019,680
+Toyota Prius,Toyota,Prius,PHEV,2011,0
+Toyota Prius,Toyota,Prius,PHEV,2012,12749
+Toyota Prius,Toyota,Prius,PHEV,2013,12088
+Toyota Prius,Toyota,Prius,PHEV,2014,13264
+Toyota Prius,Toyota,Prius,PHEV,2015,4191
+Toyota Prius,Toyota,Prius,PHEV,2016,2474
+Toyota Prius,Toyota,Prius,PHEV,2017,20936
+Toyota Prius,Toyota,Prius,PHEV,2018,27595
+Toyota Prius,Toyota,Prius,PHEV,2019,23630
+Ford Focus Electric,Ford,Focus Electric,EV,2011,0
+Ford Focus Electric,Ford,Focus Electric,EV,2012,683
+Ford Focus Electric,Ford,Focus Electric,EV,2013,1738
+Ford Focus Electric,Ford,Focus Electric,EV,2014,1964
+Ford Focus Electric,Ford,Focus Electric,EV,2015,1582
+Ford Focus Electric,Ford,Focus Electric,EV,2016,901
+Ford Focus Electric,Ford,Focus Electric,EV,2017,1817
+Ford Focus Electric,Ford,Focus Electric,EV,2018,560
+Ford Focus Electric,Ford,Focus Electric,EV,2019,0
+Honda Fit EV,Honda,Fit EV,EV,2011,0
+Honda Fit EV,Honda,Fit EV,EV,2012,93
+Honda Fit EV,Honda,Fit EV,EV,2013,569
+Honda Fit EV,Honda,Fit EV,EV,2014,407
+Honda Fit EV,Honda,Fit EV,EV,2015,2
+Honda Fit EV,Honda,Fit EV,EV,2016,0
+Honda Fit EV,Honda,Fit EV,EV,2017,0
+Honda Fit EV,Honda,Fit EV,EV,2018,0
+Honda Fit EV,Honda,Fit EV,EV,2019,0
+Tesla Model S,Tesla,Model S,EV,2011,0
+Tesla Model S,Tesla,Model S,EV,2012,2400
+Tesla Model S,Tesla,Model S,EV,2013,19400
+Tesla Model S,Tesla,Model S,EV,2014,16750
+Tesla Model S,Tesla,Model S,EV,2015,26200
+Tesla Model S,Tesla,Model S,EV,2016,30200
+Tesla Model S,Tesla,Model S,EV,2017,26500
+Tesla Model S,Tesla,Model S,EV,2018,25745
+Tesla Model S,Tesla,Model S,EV,2019,15090
+Toyota Rav4 EV,Toyota,Rav4 EV,EV,2011,0
+Toyota Rav4 EV,Toyota,Rav4 EV,EV,2012,192
+Toyota Rav4 EV,Toyota,Rav4 EV,EV,2013,1005
+Toyota Rav4 EV,Toyota,Rav4 EV,EV,2014,1184
+Toyota Rav4 EV,Toyota,Rav4 EV,EV,2015,18
+Toyota Rav4 EV,Toyota,Rav4 EV,EV,2016,0
+Toyota Rav4 EV,Toyota,Rav4 EV,EV,2017,0
+Toyota Rav4 EV,Toyota,Rav4 EV,EV,2018,0
+Toyota Rav4 EV,Toyota,Rav4 EV,EV,2019,0
+Ford C-Max Energi,Ford,C-Max Energi,PHEV,2011,0
+Ford C-Max Energi,Ford,C-Max Energi,PHEV,2012,2374
+Ford C-Max Energi,Ford,C-Max Energi,PHEV,2013,7154
+Ford C-Max Energi,Ford,C-Max Energi,PHEV,2014,8433
+Ford C-Max Energi,Ford,C-Max Energi,PHEV,2015,7591
+Ford C-Max Energi,Ford,C-Max Energi,PHEV,2016,7957
+Ford C-Max Energi,Ford,C-Max Energi,PHEV,2017,8140
+Ford C-Max Energi,Ford,C-Max Energi,PHEV,2018,582
+Ford C-Max Energi,Ford,C-Max Energi,PHEV,2019,0
+Honda Accord PHV,Honda,Accord PHV,PHEV,2011,0
+Honda Accord PHV,Honda,Accord PHV,PHEV,2012,0
+Honda Accord PHV,Honda,Accord PHV,PHEV,2013,526
+Honda Accord PHV,Honda,Accord PHV,PHEV,2014,449
+Honda Accord PHV,Honda,Accord PHV,PHEV,2015,64
+Honda Accord PHV,Honda,Accord PHV,PHEV,2016,0
+Honda Accord PHV,Honda,Accord PHV,PHEV,2017,0
+Honda Accord PHV,Honda,Accord PHV,PHEV,2018,0
+Honda Accord PHV,Honda,Accord PHV,PHEV,2019,0
+Ford Fusion Energi,Ford,Fusion Energi,PHEV,2011,0
+Ford Fusion Energi,Ford,Fusion Energi,PHEV,2012,0
+Ford Fusion Energi,Ford,Fusion Energi,PHEV,2013,6089
+Ford Fusion Energi,Ford,Fusion Energi,PHEV,2014,11550
+Ford Fusion Energi,Ford,Fusion Energi,PHEV,2015,9750
+Ford Fusion Energi,Ford,Fusion Energi,PHEV,2016,15938
+Ford Fusion Energi,Ford,Fusion Energi,PHEV,2017,9632
+Ford Fusion Energi,Ford,Fusion Energi,PHEV,2018,8074
+Ford Fusion Energi,Ford,Fusion Energi,PHEV,2019,7476
+Chevy Spark EV,Chevy,Spark EV,EV,2011,0
+Chevy Spark EV,Chevy,Spark EV,EV,2012,0
+Chevy Spark EV,Chevy,Spark EV,EV,2013,560
+Chevy Spark EV,Chevy,Spark EV,EV,2014,1145
+Chevy Spark EV,Chevy,Spark EV,EV,2015,2629
+Chevy Spark EV,Chevy,Spark EV,EV,2016,3035
+Chevy Spark EV,Chevy,Spark EV,EV,2017,23
+Chevy Spark EV,Chevy,Spark EV,EV,2018,7
+Chevy Spark EV,Chevy,Spark EV,EV,2019,0
+Fiat 500e,Fiat,500e,EV,2011,0
+Fiat 500e,Fiat,500e,EV,2012,0
+Fiat 500e,Fiat,500e,EV,2013,260
+Fiat 500e,Fiat,500e,EV,2014,1503
+Fiat 500e,Fiat,500e,EV,2015,3477
+Fiat 500e,Fiat,500e,EV,2016,3737
+Fiat 500e,Fiat,500e,EV,2017,3336
+Fiat 500e,Fiat,500e,EV,2018,2250
+Fiat 500e,Fiat,500e,EV,2019,632
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2011,0
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2012,0
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2013,51
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2014,879
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2015,407
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2016,393
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2017,18
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2018,2036
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2019,1958
+Cadillac ELR,Cadillac,ELR,PHEV,2011,0
+Cadillac ELR,Cadillac,ELR,PHEV,2012,0
+Cadillac ELR,Cadillac,ELR,PHEV,2013,6
+Cadillac ELR,Cadillac,ELR,PHEV,2014,1310
+Cadillac ELR,Cadillac,ELR,PHEV,2015,1024
+Cadillac ELR,Cadillac,ELR,PHEV,2016,534
+Cadillac ELR,Cadillac,ELR,PHEV,2017,17
+Cadillac ELR,Cadillac,ELR,PHEV,2018,1
+Cadillac ELR,Cadillac,ELR,PHEV,2019,0
+BMW i3,BMW,i3,EV,2011,0
+BMW i3,BMW,i3,EV,2012,0
+BMW i3,BMW,i3,EV,2013,0
+BMW i3,BMW,i3,EV,2014,6092
+BMW i3,BMW,i3,EV,2015,11024
+BMW i3,BMW,i3,EV,2016,7625
+BMW i3,BMW,i3,EV,2017,6276
+BMW i3,BMW,i3,EV,2018,6117
+BMW i3,BMW,i3,EV,2019,4854
+Mercedes B-Class ED,Mercedes,B-Class ED,EV,2011,0
+Mercedes B-Class ED,Mercedes,B-Class ED,EV,2012,0
+Mercedes B-Class ED,Mercedes,B-Class ED,EV,2013,0
+Mercedes B-Class ED,Mercedes,B-Class ED,EV,2014,774
+Mercedes B-Class ED,Mercedes,B-Class ED,EV,2015,1906
+Mercedes B-Class ED,Mercedes,B-Class ED,EV,2016,632
+Mercedes B-Class ED,Mercedes,B-Class ED,EV,2017,744
+Mercedes B-Class ED,Mercedes,B-Class ED,EV,2018,135
+Mercedes B-Class ED,Mercedes,B-Class ED,EV,2019,9
+BMW i8,BMW,i8,PHEV,2011,0
+BMW i8,BMW,i8,PHEV,2012,0
+BMW i8,BMW,i8,PHEV,2013,0
+BMW i8,BMW,i8,PHEV,2014,555
+BMW i8,BMW,i8,PHEV,2015,2265
+BMW i8,BMW,i8,PHEV,2016,1594
+BMW i8,BMW,i8,PHEV,2017,488
+BMW i8,BMW,i8,PHEV,2018,772
+BMW i8,BMW,i8,PHEV,2019,1102
+VW e-Golf,VW,e-Golf,EV,2011,0
+VW e-Golf,VW,e-Golf,EV,2012,0
+VW e-Golf,VW,e-Golf,EV,2013,0
+VW e-Golf,VW,e-Golf,EV,2014,357
+VW e-Golf,VW,e-Golf,EV,2015,4232
+VW e-Golf,VW,e-Golf,EV,2016,3937
+VW e-Golf,VW,e-Golf,EV,2017,3534
+VW e-Golf,VW,e-Golf,EV,2018,1354
+VW e-Golf,VW,e-Golf,EV,2019,4863
+Kia Soul EV,Kia,Soul EV,EV,2011,0
+Kia Soul EV,Kia,Soul EV,EV,2012,0
+Kia Soul EV,Kia,Soul EV,EV,2013,0
+Kia Soul EV,Kia,Soul EV,EV,2014,359
+Kia Soul EV,Kia,Soul EV,EV,2015,1015
+Kia Soul EV,Kia,Soul EV,EV,2016,1728
+Kia Soul EV,Kia,Soul EV,EV,2017,2157
+Kia Soul EV,Kia,Soul EV,EV,2018,1134
+Kia Soul EV,Kia,Soul EV,EV,2019,114
+Porsche Cayenne S-E,Porsche,Cayenne S-E,PHEV,2011,0
+Porsche Cayenne S-E,Porsche,Cayenne S-E,PHEV,2012,0
+Porsche Cayenne S-E,Porsche,Cayenne S-E,PHEV,2013,0
+Porsche Cayenne S-E,Porsche,Cayenne S-E,PHEV,2014,112
+Porsche Cayenne S-E,Porsche,Cayenne S-E,PHEV,2015,1163
+Porsche Cayenne S-E,Porsche,Cayenne S-E,PHEV,2016,2111
+Porsche Cayenne S-E,Porsche,Cayenne S-E,PHEV,2017,1574
+Porsche Cayenne S-E,Porsche,Cayenne S-E,PHEV,2018,1022
+Porsche Cayenne S-E,Porsche,Cayenne S-E,PHEV,2019,1140
+Mercedes S550e,Mercedes,S550e,PHEV,2011,0
+Mercedes S550e,Mercedes,S550e,PHEV,2012,0
+Mercedes S550e,Mercedes,S550e,PHEV,2013,0
+Mercedes S550e,Mercedes,S550e,PHEV,2014,0
+Mercedes S550e,Mercedes,S550e,PHEV,2015,118
+Mercedes S550e,Mercedes,S550e,PHEV,2016,550
+Mercedes S550e,Mercedes,S550e,PHEV,2017,666
+Mercedes S550e,Mercedes,S550e,PHEV,2018,96
+Mercedes S550e,Mercedes,S550e,PHEV,2019,371
+Volvo XC90,Volvo,XC90,PHEV,2011,0
+Volvo XC90,Volvo,XC90,PHEV,2012,0
+Volvo XC90,Volvo,XC90,PHEV,2013,0
+Volvo XC90,Volvo,XC90,PHEV,2014,0
+Volvo XC90,Volvo,XC90,PHEV,2015,86
+Volvo XC90,Volvo,XC90,PHEV,2016,2015
+Volvo XC90,Volvo,XC90,PHEV,2017,2358
+Volvo XC90,Volvo,XC90,PHEV,2018,1387
+Volvo XC90,Volvo,XC90,PHEV,2019,1710
+Tesla Model X,Tesla,Model X,EV,2011,0
+Tesla Model X,Tesla,Model X,EV,2012,0
+Tesla Model X,Tesla,Model X,EV,2013,0
+Tesla Model X,Tesla,Model X,EV,2014,0
+Tesla Model X,Tesla,Model X,EV,2015,208
+Tesla Model X,Tesla,Model X,EV,2016,19600
+Tesla Model X,Tesla,Model X,EV,2017,21700
+Tesla Model X,Tesla,Model X,EV,2018,26100
+Tesla Model X,Tesla,Model X,EV,2019,19425
+BMW X5 xDrive40e,BMW,X5 xDrive40e,PHEV,2011,0
+BMW X5 xDrive40e,BMW,X5 xDrive40e,PHEV,2012,0
+BMW X5 xDrive40e,BMW,X5 xDrive40e,PHEV,2013,0
+BMW X5 xDrive40e,BMW,X5 xDrive40e,PHEV,2014,0
+BMW X5 xDrive40e,BMW,X5 xDrive40e,PHEV,2015,892
+BMW X5 xDrive40e,BMW,X5 xDrive40e,PHEV,2016,5995
+BMW X5 xDrive40e,BMW,X5 xDrive40e,PHEV,2017,5349
+BMW X5 xDrive40e,BMW,X5 xDrive40e,PHEV,2018,4434
+BMW X5 xDrive40e,BMW,X5 xDrive40e,PHEV,2019,167
+Hyundai Sonata PHEV,Hyundai,Sonata PHEV,PHEV,2011,0
+Hyundai Sonata PHEV,Hyundai,Sonata PHEV,PHEV,2012,0
+Hyundai Sonata PHEV,Hyundai,Sonata PHEV,PHEV,2013,0
+Hyundai Sonata PHEV,Hyundai,Sonata PHEV,PHEV,2014,0
+Hyundai Sonata PHEV,Hyundai,Sonata PHEV,PHEV,2015,15
+Hyundai Sonata PHEV,Hyundai,Sonata PHEV,PHEV,2016,3000
+Hyundai Sonata PHEV,Hyundai,Sonata PHEV,PHEV,2017,2254
+Hyundai Sonata PHEV,Hyundai,Sonata PHEV,PHEV,2018,460
+Hyundai Sonata PHEV,Hyundai,Sonata PHEV,PHEV,2019,456
+Audi A3 Sprtbk e-tron,Audi,A3 Sprtbk e-tron,PHEV,2011,0
+Audi A3 Sprtbk e-tron,Audi,A3 Sprtbk e-tron,PHEV,2012,0
+Audi A3 Sprtbk e-tron,Audi,A3 Sprtbk e-tron,PHEV,2013,0
+Audi A3 Sprtbk e-tron,Audi,A3 Sprtbk e-tron,PHEV,2014,0
+Audi A3 Sprtbk e-tron,Audi,A3 Sprtbk e-tron,PHEV,2015,0
+Audi A3 Sprtbk e-tron,Audi,A3 Sprtbk e-tron,PHEV,2016,4280
+Audi A3 Sprtbk e-tron,Audi,A3 Sprtbk e-tron,PHEV,2017,2877
+Audi A3 Sprtbk e-tron,Audi,A3 Sprtbk e-tron,PHEV,2018,2597
+Audi A3 Sprtbk e-tron,Audi,A3 Sprtbk e-tron,PHEV,2019,437
+BMW 330e,BMW,330e,PHEV,2011,0
+BMW 330e,BMW,330e,PHEV,2012,0
+BMW 330e,BMW,330e,PHEV,2013,0
+BMW 330e,BMW,330e,PHEV,2014,0
+BMW 330e,BMW,330e,PHEV,2015,0
+BMW 330e,BMW,330e,PHEV,2016,880
+BMW 330e,BMW,330e,PHEV,2017,4141
+BMW 330e,BMW,330e,PHEV,2018,2600
+BMW 330e,BMW,330e,PHEV,2019,705
+Mercedes S550e,Mercedes,S550e,PHEV,2011,0
+Mercedes S550e,Mercedes,S550e,PHEV,2012,0
+Mercedes S550e,Mercedes,S550e,PHEV,2013,0
+Mercedes S550e,Mercedes,S550e,PHEV,2014,0
+Mercedes S550e,Mercedes,S550e,PHEV,2015,0
+Mercedes S550e,Mercedes,S550e,PHEV,2016,231
+Mercedes S550e,Mercedes,S550e,PHEV,2017,463
+Mercedes S550e,Mercedes,S550e,PHEV,2018,966
+Mercedes S550e,Mercedes,S550e,PHEV,2019,1509
+BMW 740e,BMW,740e,PHEV,2011,0
+BMW 740e,BMW,740e,PHEV,2012,0
+BMW 740e,BMW,740e,PHEV,2013,0
+BMW 740e,BMW,740e,PHEV,2014,0
+BMW 740e,BMW,740e,PHEV,2015,0
+BMW 740e,BMW,740e,PHEV,2016,23
+BMW 740e,BMW,740e,PHEV,2017,707
+BMW 740e,BMW,740e,PHEV,2018,339
+BMW 740e,BMW,740e,PHEV,2019,80
+Mercedes C350e,Mercedes,C350e,PHEV,2011,0
+Mercedes C350e,Mercedes,C350e,PHEV,2012,0
+Mercedes C350e,Mercedes,C350e,PHEV,2013,0
+Mercedes C350e,Mercedes,C350e,PHEV,2014,0
+Mercedes C350e,Mercedes,C350e,PHEV,2015,0
+Mercedes C350e,Mercedes,C350e,PHEV,2016,171
+Mercedes C350e,Mercedes,C350e,PHEV,2017,817
+Mercedes C350e,Mercedes,C350e,PHEV,2018,1721
+Mercedes C350e,Mercedes,C350e,PHEV,2019,2172
+Chevy Bolt EV,Chevy,Bolt EV,EV,2011,0
+Chevy Bolt EV,Chevy,Bolt EV,EV,2012,0
+Chevy Bolt EV,Chevy,Bolt EV,EV,2013,0
+Chevy Bolt EV,Chevy,Bolt EV,EV,2014,0
+Chevy Bolt EV,Chevy,Bolt EV,EV,2015,0
+Chevy Bolt EV,Chevy,Bolt EV,EV,2016,579
+Chevy Bolt EV,Chevy,Bolt EV,EV,2017,23297
+Chevy Bolt EV,Chevy,Bolt EV,EV,2018,18019
+Chevy Bolt EV,Chevy,Bolt EV,EV,2019,16313
+Kia Optima PHEV,Kia,Optima PHEV,PHEV,2011,0
+Kia Optima PHEV,Kia,Optima PHEV,PHEV,2012,0
+Kia Optima PHEV,Kia,Optima PHEV,PHEV,2013,0
+Kia Optima PHEV,Kia,Optima PHEV,PHEV,2014,0
+Kia Optima PHEV,Kia,Optima PHEV,PHEV,2015,0
+Kia Optima PHEV,Kia,Optima PHEV,PHEV,2016,0
+Kia Optima PHEV,Kia,Optima PHEV,PHEV,2017,1512
+Kia Optima PHEV,Kia,Optima PHEV,PHEV,2018,965
+Kia Optima PHEV,Kia,Optima PHEV,PHEV,2019,350
+Hyundai IONIQ EV,Hyundai,IONIQ EV,EV,2011,0
+Hyundai IONIQ EV,Hyundai,IONIQ EV,EV,2012,0
+Hyundai IONIQ EV,Hyundai,IONIQ EV,EV,2013,0
+Hyundai IONIQ EV,Hyundai,IONIQ EV,EV,2014,0
+Hyundai IONIQ EV,Hyundai,IONIQ EV,EV,2015,0
+Hyundai IONIQ EV,Hyundai,IONIQ EV,EV,2016,0
+Hyundai IONIQ EV,Hyundai,IONIQ EV,EV,2017,432
+Hyundai IONIQ EV,Hyundai,IONIQ EV,EV,2018,345
+Hyundai IONIQ EV,Hyundai,IONIQ EV,EV,2019,739
+Chrysler Pacifica Hybrid,Chrysler,Pacifica Hybrid,PHEV,2011,0
+Chrysler Pacifica Hybrid,Chrysler,Pacifica Hybrid,PHEV,2012,0
+Chrysler Pacifica Hybrid,Chrysler,Pacifica Hybrid,PHEV,2013,0
+Chrysler Pacifica Hybrid,Chrysler,Pacifica Hybrid,PHEV,2014,0
+Chrysler Pacifica Hybrid,Chrysler,Pacifica Hybrid,PHEV,2015,0
+Chrysler Pacifica Hybrid,Chrysler,Pacifica Hybrid,PHEV,2016,0
+Chrysler Pacifica Hybrid,Chrysler,Pacifica Hybrid,PHEV,2017,2981
+Chrysler Pacifica Hybrid,Chrysler,Pacifica Hybrid,PHEV,2018,7062
+Chrysler Pacifica Hybrid,Chrysler,Pacifica Hybrid,PHEV,2019,5811
+Cadillac CT6 PHEV,Cadillac,CT6 PHEV,PHEV,2011,0
+Cadillac CT6 PHEV,Cadillac,CT6 PHEV,PHEV,2012,0
+Cadillac CT6 PHEV,Cadillac,CT6 PHEV,PHEV,2013,0
+Cadillac CT6 PHEV,Cadillac,CT6 PHEV,PHEV,2014,0
+Cadillac CT6 PHEV,Cadillac,CT6 PHEV,PHEV,2015,0
+Cadillac CT6 PHEV,Cadillac,CT6 PHEV,PHEV,2016,0
+Cadillac CT6 PHEV,Cadillac,CT6 PHEV,PHEV,2017,205
+Cadillac CT6 PHEV,Cadillac,CT6 PHEV,PHEV,2018,231
+Cadillac CT6 PHEV,Cadillac,CT6 PHEV,PHEV,2019,25
+BMW 530e,BMW,530e,PHEV,2011,0
+BMW 530e,BMW,530e,PHEV,2012,0
+BMW 530e,BMW,530e,PHEV,2013,0
+BMW 530e,BMW,530e,PHEV,2014,0
+BMW 530e,BMW,530e,PHEV,2015,0
+BMW 530e,BMW,530e,PHEV,2016,0
+BMW 530e,BMW,530e,PHEV,2017,3759
+BMW 530e,BMW,530e,PHEV,2018,8664
+BMW 530e,BMW,530e,PHEV,2019,5442
+Mini Countryman SE PHEV,Mini,Countryman SE PHEV,PHEV,2011,0
+Mini Countryman SE PHEV,Mini,Countryman SE PHEV,PHEV,2012,0
+Mini Countryman SE PHEV,Mini,Countryman SE PHEV,PHEV,2013,0
+Mini Countryman SE PHEV,Mini,Countryman SE PHEV,PHEV,2014,0
+Mini Countryman SE PHEV,Mini,Countryman SE PHEV,PHEV,2015,0
+Mini Countryman SE PHEV,Mini,Countryman SE PHEV,PHEV,2016,0
+Mini Countryman SE PHEV,Mini,Countryman SE PHEV,PHEV,2017,475
+Mini Countryman SE PHEV,Mini,Countryman SE PHEV,PHEV,2018,1564
+Mini Countryman SE PHEV,Mini,Countryman SE PHEV,PHEV,2019,494
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2011,0
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2012,0
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2013,0
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2014,0
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2015,0
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2016,0
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2017,0
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2018,0
+Porsche Panamera E-Hybrid,Porsche,Panamera E-Hybrid,PHEV,2019,0
+Tesla Model 3,Tesla,Model 3,EV,2011,0
+Tesla Model 3,Tesla,Model 3,EV,2012,0
+Tesla Model 3,Tesla,Model 3,EV,2013,0
+Tesla Model 3,Tesla,Model 3,EV,2014,0
+Tesla Model 3,Tesla,Model 3,EV,2015,0
+Tesla Model 3,Tesla,Model 3,EV,2016,0
+Tesla Model 3,Tesla,Model 3,EV,2017,1770
+Tesla Model 3,Tesla,Model 3,EV,2018,139782
+Tesla Model 3,Tesla,Model 3,EV,2019,154840
+Honda Clarity BEV,Honda,Clarity BEV,EV,2011,0
+Honda Clarity BEV,Honda,Clarity BEV,EV,2012,0
+Honda Clarity BEV,Honda,Clarity BEV,EV,2013,0
+Honda Clarity BEV,Honda,Clarity BEV,EV,2014,0
+Honda Clarity BEV,Honda,Clarity BEV,EV,2015,0
+Honda Clarity BEV,Honda,Clarity BEV,EV,2016,0
+Honda Clarity BEV,Honda,Clarity BEV,EV,2017,1126
+Honda Clarity BEV,Honda,Clarity BEV,EV,2018,948
+Honda Clarity BEV,Honda,Clarity BEV,EV,2019,742
+Volvo XC60 PHEV,Volvo,XC60 PHEV,PHEV,2011,0
+Volvo XC60 PHEV,Volvo,XC60 PHEV,PHEV,2012,0
+Volvo XC60 PHEV,Volvo,XC60 PHEV,PHEV,2013,0
+Volvo XC60 PHEV,Volvo,XC60 PHEV,PHEV,2014,0
+Volvo XC60 PHEV,Volvo,XC60 PHEV,PHEV,2015,0
+Volvo XC60 PHEV,Volvo,XC60 PHEV,PHEV,2016,0
+Volvo XC60 PHEV,Volvo,XC60 PHEV,PHEV,2017,356
+Volvo XC60 PHEV,Volvo,XC60 PHEV,PHEV,2018,2267
+Volvo XC60 PHEV,Volvo,XC60 PHEV,PHEV,2019,1682
+Volvo S90 T8 PHEV,Volvo,S90 T8 PHEV,PHEV,2011,0
+Volvo S90 T8 PHEV,Volvo,S90 T8 PHEV,PHEV,2012,0
+Volvo S90 T8 PHEV,Volvo,S90 T8 PHEV,PHEV,2013,0
+Volvo S90 T8 PHEV,Volvo,S90 T8 PHEV,PHEV,2014,0
+Volvo S90 T8 PHEV,Volvo,S90 T8 PHEV,PHEV,2015,0
+Volvo S90 T8 PHEV,Volvo,S90 T8 PHEV,PHEV,2016,0
+Volvo S90 T8 PHEV,Volvo,S90 T8 PHEV,PHEV,2017,112
+Volvo S90 T8 PHEV,Volvo,S90 T8 PHEV,PHEV,2018,437
+Volvo S90 T8 PHEV,Volvo,S90 T8 PHEV,PHEV,2019,407
+Honda Clarity PHEV,Honda,Clarity PHEV,PHEV,2011,0
+Honda Clarity PHEV,Honda,Clarity PHEV,PHEV,2012,0
+Honda Clarity PHEV,Honda,Clarity PHEV,PHEV,2013,0
+Honda Clarity PHEV,Honda,Clarity PHEV,PHEV,2014,0
+Honda Clarity PHEV,Honda,Clarity PHEV,PHEV,2015,0
+Honda Clarity PHEV,Honda,Clarity PHEV,PHEV,2016,0
+Honda Clarity PHEV,Honda,Clarity PHEV,PHEV,2017,903
+Honda Clarity PHEV,Honda,Clarity PHEV,PHEV,2018,18602
+Honda Clarity PHEV,Honda,Clarity PHEV,PHEV,2019,10728
+Mitsubishi Outlander PHEV,Mitsubishi,Outlander PHEV,PHEV,2011,0
+Mitsubishi Outlander PHEV,Mitsubishi,Outlander PHEV,PHEV,2012,0
+Mitsubishi Outlander PHEV,Mitsubishi,Outlander PHEV,PHEV,2013,0
+Mitsubishi Outlander PHEV,Mitsubishi,Outlander PHEV,PHEV,2014,0
+Mitsubishi Outlander PHEV,Mitsubishi,Outlander PHEV,PHEV,2015,0
+Mitsubishi Outlander PHEV,Mitsubishi,Outlander PHEV,PHEV,2016,0
+Mitsubishi Outlander PHEV,Mitsubishi,Outlander PHEV,PHEV,2017,0
+Mitsubishi Outlander PHEV,Mitsubishi,Outlander PHEV,PHEV,2018,4166
+Mitsubishi Outlander PHEV,Mitsubishi,Outlander PHEV,PHEV,2019,2810
+Hyundai IONIQ PHEV,Hyundai,IONIQ PHEV,PHEV,2011,0
+Hyundai IONIQ PHEV,Hyundai,IONIQ PHEV,PHEV,2012,0
+Hyundai IONIQ PHEV,Hyundai,IONIQ PHEV,PHEV,2013,0
+Hyundai IONIQ PHEV,Hyundai,IONIQ PHEV,PHEV,2014,0
+Hyundai IONIQ PHEV,Hyundai,IONIQ PHEV,PHEV,2015,0
+Hyundai IONIQ PHEV,Hyundai,IONIQ PHEV,PHEV,2016,0
+Hyundai IONIQ PHEV,Hyundai,IONIQ PHEV,PHEV,2017,0
+Hyundai IONIQ PHEV,Hyundai,IONIQ PHEV,PHEV,2018,1590
+Hyundai IONIQ PHEV,Hyundai,IONIQ PHEV,PHEV,2019,1765
+Kia Niro PHEV,Kia,Niro PHEV,PHEV,2011,0
+Kia Niro PHEV,Kia,Niro PHEV,PHEV,2012,0
+Kia Niro PHEV,Kia,Niro PHEV,PHEV,2013,0
+Kia Niro PHEV,Kia,Niro PHEV,PHEV,2014,0
+Kia Niro PHEV,Kia,Niro PHEV,PHEV,2015,0
+Kia Niro PHEV,Kia,Niro PHEV,PHEV,2016,0
+Kia Niro PHEV,Kia,Niro PHEV,PHEV,2017,0
+Kia Niro PHEV,Kia,Niro PHEV,PHEV,2018,3389
+Kia Niro PHEV,Kia,Niro PHEV,PHEV,2019,4051
+Mercedes GLC 350e,Mercedes,GLC 350e,PHEV,2011,0
+Mercedes GLC 350e,Mercedes,GLC 350e,PHEV,2012,0
+Mercedes GLC 350e,Mercedes,GLC 350e,PHEV,2013,0
+Mercedes GLC 350e,Mercedes,GLC 350e,PHEV,2014,0
+Mercedes GLC 350e,Mercedes,GLC 350e,PHEV,2015,0
+Mercedes GLC 350e,Mercedes,GLC 350e,PHEV,2016,0
+Mercedes GLC 350e,Mercedes,GLC 350e,PHEV,2017,0
+Mercedes GLC 350e,Mercedes,GLC 350e,PHEV,2018,567
+Mercedes GLC 350e,Mercedes,GLC 350e,PHEV,2019,2459
+Jaguar I-Pace,Jaguar,I-Pace,EV,2011,0
+Jaguar I-Pace,Jaguar,I-Pace,EV,2012,0
+Jaguar I-Pace,Jaguar,I-Pace,EV,2013,0
+Jaguar I-Pace,Jaguar,I-Pace,EV,2014,0
+Jaguar I-Pace,Jaguar,I-Pace,EV,2015,0
+Jaguar I-Pace,Jaguar,I-Pace,EV,2016,0
+Jaguar I-Pace,Jaguar,I-Pace,EV,2017,0
+Jaguar I-Pace,Jaguar,I-Pace,EV,2018,393
+Jaguar I-Pace,Jaguar,I-Pace,EV,2019,2594
+Hyundai Kona Electric,Hyundai,Kona Electric,EV,2011,0
+Hyundai Kona Electric,Hyundai,Kona Electric,EV,2012,0
+Hyundai Kona Electric,Hyundai,Kona Electric,EV,2013,0
+Hyundai Kona Electric,Hyundai,Kona Electric,EV,2014,0
+Hyundai Kona Electric,Hyundai,Kona Electric,EV,2015,0
+Hyundai Kona Electric,Hyundai,Kona Electric,EV,2016,0
+Hyundai Kona Electric,Hyundai,Kona Electric,EV,2017,0
+Hyundai Kona Electric,Hyundai,Kona Electric,EV,2018,0
+Hyundai Kona Electric,Hyundai,Kona Electric,EV,2019,1721
+Subaru Crosstrek Hybrid,Subaru,Crosstrek Hybrid,PHEV,2011,0
+Subaru Crosstrek Hybrid,Subaru,Crosstrek Hybrid,PHEV,2012,0
+Subaru Crosstrek Hybrid,Subaru,Crosstrek Hybrid,PHEV,2013,0
+Subaru Crosstrek Hybrid,Subaru,Crosstrek Hybrid,PHEV,2014,0
+Subaru Crosstrek Hybrid,Subaru,Crosstrek Hybrid,PHEV,2015,0
+Subaru Crosstrek Hybrid,Subaru,Crosstrek Hybrid,PHEV,2016,0
+Subaru Crosstrek Hybrid,Subaru,Crosstrek Hybrid,PHEV,2017,0
+Subaru Crosstrek Hybrid,Subaru,Crosstrek Hybrid,PHEV,2018,0
+Subaru Crosstrek Hybrid,Subaru,Crosstrek Hybrid,PHEV,2019,880
+Audi e-tron,Audi,e-tron,EV,2011,0
+Audi e-tron,Audi,e-tron,EV,2012,0
+Audi e-tron,Audi,e-tron,EV,2013,0
+Audi e-tron,Audi,e-tron,EV,2014,0
+Audi e-tron,Audi,e-tron,EV,2015,0
+Audi e-tron,Audi,e-tron,EV,2016,0
+Audi e-tron,Audi,e-tron,EV,2017,0
+Audi e-tron,Audi,e-tron,EV,2018,0
+Audi e-tron,Audi,e-tron,EV,2019,5369
