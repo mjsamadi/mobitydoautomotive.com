@@ -21,7 +21,7 @@
 
 
 ## Presentation 
-* [SLide Presentation](/Presentation/Project%20Presentation%20-%20Project%202.pdf) 
+* [Slide Presentation](/Presentation/Project%20Presentation%20-%20Project%202.pdf) 
 #### Slide Script
 
 #### Project Presentation Script:
