@@ -21,7 +21,8 @@
 
 
 ## Presentation 
-#### SLide Script
+* [Presentation](/Presentation/Project%20Presentation%20-%20Project%202.pdf) 
+#### Slide Script
 
 Project Presentation Script:
 Slide 1 
@@ -69,7 +70,7 @@ Slide 8
 The floor is now open for questions…
 
 
-* [Presentation](/Presentation/Project%20Presentation%20-%20Project%202.pdf) 
+
 
 
 ## Files
