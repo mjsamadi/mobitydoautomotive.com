@@ -14,7 +14,7 @@
 ## Dataset and Resources
 * Kaggle (main data source)
 * Datahub
-* Data Gove
+* Data.Gov
 #### Resources used
 * AWS - Lambda and Sagemaker
 * Scikit-Learn ML linear regression used
